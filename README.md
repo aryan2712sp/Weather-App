@@ -1,7 +1,7 @@
 # Weather-App
 ---
 
-Live Demo: *[Please add your live demo URL here]*
+Live Demo: (https://aryan2712sp.github.io/Weather-App/)
 
 ## 📌 About
 
